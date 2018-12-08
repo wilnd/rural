@@ -1,4 +1,4 @@
-package com.duck.hf.configserver;
+package com.github.rural.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

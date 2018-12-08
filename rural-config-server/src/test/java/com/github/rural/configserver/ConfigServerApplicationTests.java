@@ -1,4 +1,4 @@
-package com.duck.hf.configserver;
+package com.github.rural.configserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

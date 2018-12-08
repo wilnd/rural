@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: rural-auth-center
+  cloud:
+    config:
+      discovery:
+        sevice-id: rural-config-server
+      profile: dev

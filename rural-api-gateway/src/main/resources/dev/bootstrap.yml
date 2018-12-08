@@ -1,6 +1,6 @@
 spring:
   application:
-    name: rural-rbac-center
+    name: rural-api-gateway
   cloud:
     config:
       discovery:

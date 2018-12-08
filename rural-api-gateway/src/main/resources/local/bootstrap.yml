@@ -1,8 +1,8 @@
 spring:
   application:
-    name: rural-rbac-center
+    name: rural-api-gateway
   cloud:
     config:
       discovery:
         sevice-id: rural-config-server
-      profile: dev
+      profile: default

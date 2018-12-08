@@ -1,18 +1,9 @@
 spring:
-  application:
-    name: config-server
   jackson:
     serialization:
       indent_output: true # pretty json
-  cloud:
-    config:
-      server:
-        native:
-          search-locations: classpath:config/{application}
-  profiles:
-    active: native
 server:
-  port: 8777
+  port: 10001
 eureka:
   client:
     serviceUrl:
